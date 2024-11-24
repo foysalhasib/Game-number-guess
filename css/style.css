@@ -62,8 +62,8 @@ img{
 @media (min-width: 320px) and (max-width: 575.98px) { 
 
 .main {
-    background: #b589f0;
-    width: 312px;
+    background: #a3f8e6;
+    width: 350px;
     height: 410px;
     margin: 120px auto;
 }
@@ -74,8 +74,8 @@ h1 {
 
 input {
   padding: 4px 2px;
-  font-size: 20px;
-  border-radius: 12px;
+  font-size: 16px;
+  border-radius: 10px;
 }
 
 button {
